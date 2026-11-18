@@ -219,7 +219,6 @@ Beberapa bagian kode di modul diperbaiki agar program benar-benar berjalan:
 | Update | Klik Ubah, edit data, Simpan | Data berubah di tabel | ✔ |
 | Delete | Klik Hapus lalu OK | Data hilang dari tabel | ✔ |
 
-> Centang/ubah status sesuai hasil pengujian Anda sendiri.
 
 ## 7. Kesimpulan
 
