@@ -5,7 +5,7 @@
 | **Nama** | Gina Mutmainah |
 | **NIM** | 312510490 |
 | **Kelas** | 1252A |
-| **Mata Kuliah** | Pemrograman Web OBE |
+| **Mata Kuliah** | Pemrograman Web |
 | **Dosen Pengampu** | Agung Nugroho, S.Kom., M.Kom. |
 | **Program Studi** | Teknik Informatika, Fakultas Teknik, Universitas Pelita Bangsa |
 
